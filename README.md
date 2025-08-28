@@ -19,10 +19,16 @@ The CLA adder improves addition speed by reducing carry propagation delay compar
 
 2. Run the simulation:
 
-    vvp cla_adder.out
-3.Open the waveform (.vcd) file in GTKWave:
-   gtkwave cla_adder.vcd
+   ```bash
+   vvp cla_adder.out
 
-Sample Console Output:
+
+3. Open the waveform (.vcd) file in GTKWave:
+
+    ```bash
+      vvp cla_adder.out
+   
+4. Sample Console Output:
+   
 <img width="671" height="276" alt="image" src="https://github.com/user-attachments/assets/fd04d639-3bdc-4f38-b69b-7e80e970f65f" />
 
